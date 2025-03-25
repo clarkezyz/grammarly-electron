@@ -26,7 +26,7 @@
     "linux": {
       "target": ["AppImage", "deb"],
       "category": "Utility",
-      "icon": "icons",
+      "icon": "build/icons",
       "maintainer": "cczyz <cc@zyzd.cc>"
     }
   }
